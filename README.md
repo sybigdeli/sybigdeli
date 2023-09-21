@@ -1,6 +1,6 @@
 ### Hi 👋
 
-```
+```javascript
 function me(target) {
   const data = {
     FirstName: "Seyyed Sadrodin",
