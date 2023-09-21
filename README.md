@@ -1,4 +1,28 @@
-### Hi there 👋
+### Hi 👋
+
+```
+function me(target) {
+  const data = {
+    FirstName: "Seyyed Sadrodin",
+    LastName: "Bigdeli",
+    Age: 18,
+    Country: "IRAN",
+    City: "Qom",
+    Skils: [
+      "Html",
+      "Css",
+      "Bootstrap",
+      "tailwind",
+      "Git , Github",
+      "Js",
+      "React",
+      { NodeJS: target },
+    ],
+    hobbies: "Coding , Game",
+  };
+  return data;
+}
+```
 
 <!--
 **sybigdeli/sybigdeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
