@@ -44,8 +44,7 @@ function me(target) {
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/sybigdeli/sybigdeli/blob/main/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/sybigdeli/sybigdeli/blob/main/svgviewer-output.svg" width="36" height="36" alt="Tailwind" /></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/sybigdeli/sybigdeli/blob/main/git-icon-logo-svgrepo-com.svg" width="36" height="36" alt="Git" /></a>
-    <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://github.com/sybigdeli/sybigdeli/blob/main/Adobe_Photoshop_CC_icon.svg" width="36" height="36" alt="Photoshop" /></a>
-    <a href="https://www.adobe.com/products/premiere.html"><img src="https://github.com/sybigdeli/sybigdeli/blob/main/Adobe_Premiere_Pro_CC_icon.svg" width="36" height="36" alt="premier" /></a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/sybigdeli/sybigdeli/blob/main/next-js.svg" width="36" height="36" alt="Next JS" /></a>
 </p>
 
 
