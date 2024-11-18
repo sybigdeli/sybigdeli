@@ -10,11 +10,11 @@
 <hr />
 
 ```javascript
-function me(target) {
+function me() {
   const data = {
     FirstName: "Seyyed Sadrodin",
     LastName: "Bigdeli",
-    Age: 18,
+    Age: 20,
     Country: "IRAN",
     City: "Qom",
     Skils: [
@@ -26,9 +26,10 @@ function me(target) {
       "Js",
       "React Js",
       "Next Js",
-      { NodeJS: target },
-    ],
-    hobbies: "Coding , Game",
+      "Node Js",
+      "Express Js",
+      "Mongo DB",
+    ],
   };
   return data;
 }
