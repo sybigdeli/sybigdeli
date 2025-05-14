@@ -27,9 +27,13 @@ function me() {
       "React Js",
       "Next Js",
       "Node Js",
+      "Nest Js",
       "Express Js",
-      "Mongo DB",
-    ],
+      "Mongo DB",
+      "Laravel",
+      "Sql"
+    ],
+
   };
   return data;
 }
